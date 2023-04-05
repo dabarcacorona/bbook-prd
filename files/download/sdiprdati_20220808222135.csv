@@ -1,0 +1,2 @@
+batchNum,controlNumber,prdLvlNumber,orgLvlNumber,atrTypTechKey,atrTypeDesc,atrHdrTechKey,atrHdrDesc,atrCode,tranType,atrCodeDesc,attCreate,prd_lvl_id,org_lvl_id,dateCreated,downloadDate1,downloadDate2,atrIsValue,errorCode,vendorNumber,altPrdLvlNumber,altPrdLvlId,altOrgLvlNumber,altOrgLvlId,nombreArchivo,fechaStage,fechaPermanente,fechaBackup
+241,1,JHCAMISV23-009 ,,,COMERCIAL,,TEJIDO,,A,PLANO,F,1,,20220808,,,F,,,,,,,,,,2022-08-08 22:21:33.0
